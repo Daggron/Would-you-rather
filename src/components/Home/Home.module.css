@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.line{
+    height: 100px;
+    border: 1px solid gray;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.body{
+    line-height: 1.5em;
+}
+
+.link{
+    margin-top: 20px;
+}
